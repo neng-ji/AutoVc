@@ -1,4 +1,11 @@
 # Readme
+## Quick View of Results
+Click below link:
+
+https://neng-ji.github.io/AutoVc/Example_Usage.html
+
+
+# Overview
 We will construct neural network layers using PyTorch for use with the system described in ["AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss"](https://arxiv.org/abs/1905.05879) (ICML 2019) by Qian, Zhang, Chang, Yang, and Hasegawa-Johnson. 
 
 
@@ -12,7 +19,3 @@ Download the pretrained model from the link below:
 Run `main.py` to test your own utterances.
 
 
-## Example Usage
-Click below link:
-
-https://neng-ji.github.io/AutoVc/Example_Usage.html
