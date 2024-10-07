@@ -1,5 +1,7 @@
 # Readme
 ## Quick View of Results
+Generate an artificial voice (converted utterance) based on the source utterance, learned from the target utterance.
+
 Click below link:
 
 https://neng-ji.github.io/AutoVc/Example_Usage.html
