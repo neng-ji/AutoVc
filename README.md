@@ -1,6 +1,6 @@
 # Readme
 ## Quick View of Results
-Generate an artificial voice (converted utterance) based on the target utterance, learned from the source utterance.
+Generate the artificial voice (converted utterance) from the target utterance, adapted using the vocal characteristics learned from the source utterance.
 
 Click below link:
 
